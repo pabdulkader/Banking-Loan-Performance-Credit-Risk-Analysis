@@ -16,11 +16,11 @@ The project follows an end-to-end Data Analyst workflow:
 
 ### Loan Performance Overview
 
-![Loan Performance Overview](05_Screenshots/Loan_Performance_Overview.png)
+![Loan Performance Overview](Screenshots/Loan_Performance_Overview.png)
 
 ### Credit Risk Analysis
 
-![Credit Risk Analysis](05_Screenshots/Credit_Risk_Analysis.png)
+![Credit Risk Analysis](Screenshots/Credit_Risk_Analysis.png)
 
 ---
 
